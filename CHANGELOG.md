@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/hanssonerik/sem/compare/v1.1.1...v1.2.0) (2022-12-07)
+
+
+### Features
+
+* another feature ([9438990](https://github.com/hanssonerik/sem/commit/9438990cc798cacbc49e3ab594b2dfdc038d6892))
+* one feature ([ca304de](https://github.com/hanssonerik/sem/commit/ca304de5b92ae3f901b3a149b96c5e995e354c97))
+
+
+### Bug Fixes
+
+* typo in another feature ([7e8860c](https://github.com/hanssonerik/sem/commit/7e8860c78a78f42ccf6317792e714464b32d84db))
+
 ### [1.1.1](https://github.com/hanssonerik/sem/compare/v1.1.0...v1.1.1) (2022-12-07)
 
 
