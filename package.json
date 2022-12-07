@@ -1,6 +1,6 @@
 {
   "name": "sem-boilerplate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",

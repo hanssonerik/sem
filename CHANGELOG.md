@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/hanssonerik/sem/compare/v0.0.3...v0.0.4) (2022-12-07)
+
+
+### Features
+
+* add new feature, should bump minor ([b315857](https://github.com/hanssonerik/sem/commit/b315857c6eb218f9d76a03f5131436d6f31e7e35))
+
 ### [0.0.3](https://github.com/hanssonerik/sem/compare/v0.0.2...v0.0.3) (2022-12-07)
 
 ### [0.0.2](https://github.com/hanssonerik/sem/compare/v0.0.1...v0.0.2) (2022-12-07)
